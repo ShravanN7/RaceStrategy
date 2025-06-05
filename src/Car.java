@@ -1,5 +1,19 @@
+// File: SumTwoNumbers.java
+import java.util.Scanner;
+
 public class Car {
     public static void main(String[] args) {
-        System.out.println("Hello, Wo=rld!");
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Enter first integer: ");
+        int a = scanner.nextInt();
+
+        System.out.print("Enter second integer: ");
+        int b = scanner.nextInt();
+
+        int sum = a + b;
+        System.out.println("Sum = " + sum);
+
+        scanner.close();
     }
 }
