@@ -5,7 +5,7 @@ public class Car {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter first integer: ");
+        System.out.print("Enter first inte  ddddger: ");
         int a = scanner.nextInt();
 
         System.out.print("Enter second intesssccsssger: ");
