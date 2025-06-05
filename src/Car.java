@@ -8,7 +8,7 @@ public class Car {
         System.out.print("Enter first integer: ");
         int a = scanner.nextInt();
 
-        System.out.print("Enter second intessssssger: ");
+        System.out.print("Enter second intesssccsssger: ");
         int b = scanner.nextInt();
 
         int sum = a + b;
